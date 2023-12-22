@@ -79,7 +79,7 @@ class _NewState extends State<New> {
                         child: IconButton(
                           color: Colors.white,
                           onPressed: () {
-                            Navigator.pushNamed(context, 'sucess');
+                            Navigator.pushNamed(context, 'sucesss');
                           },
                           icon: Icon(Icons.arrow_forward),
                         ),
